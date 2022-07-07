@@ -668,16 +668,16 @@
             <form action="https://send.pageclip.co/SxJZxcppYgjAj9aeR0Xy9cDaQq9IMqmX/contact-form" class="vg-contact-form" method="post">
             <div class="form-row">
               <div class="col-12 mt-3 wow fadeInUp">
-                <input class="form-control" type="text" name="Name" placeholder="Your Name">
+                <input class="form-control" type="text" name="Name" placeholder="Your Name" required>
               </div>
               <div class="col-6 mt-3 wow fadeInUp">
-                <input class="form-control" type="text" name="Email" placeholder="Email Address">
+                <input class="form-control" type="email" name="Email" placeholder="Email Address" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" required>
               </div>
               <div class="col-6 mt-3 wow fadeInUp">
-                <input class="form-control" type="text" name="Subject" placeholder="Subject">
+                <input class="form-control" type="text" name="Subject" placeholder="Subject" required>
               </div>
               <div class="col-12 mt-3 wow fadeInUp">
-                <textarea class="form-control" name="Message" rows="6" placeholder="Enter message here.."></textarea>
+                <textarea class="form-control" name="Message" rows="6" placeholder="Enter message here.."  required></textarea>
               </div>
               <button type="submit" class="btn btn-theme mt-3 wow fadeInUp ml-1">Send Message</button>
             </div>
