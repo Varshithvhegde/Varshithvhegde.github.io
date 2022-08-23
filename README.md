@@ -1,5 +1,12 @@
-# [Varshithvhegde.github.io](https://Varshithvhegde.github.io)
-This is a Portfolio website made using HTML, CSS, Javascript.
+<h1 align="center">Welcome to <a href="https://Varshithvhegde.github.io">My Portfolio</a> 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
+  </a>
+</p>
+
+This is a [Portfolio website](https://Varshithvhegde.github.io) made using HTML, CSS, Javascript.
 
 
 ## About Me
@@ -9,7 +16,7 @@ This is a Portfolio website made using HTML, CSS, Javascript.
 - Location: Bangalore, India
 - I am a Engineering student at Mangalore Institute of Technology and Engineering and pursuing my B.E. in Computer Science and Engineering.
 - I am a self taught web developer and android developer. 
-
+- [My Portfolio](https://Varshithvhegde.github.io) is a website that I made to showcase my skills and projects.
 ## Skills
 - HTML
 -  CSS
