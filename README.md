@@ -17,6 +17,8 @@ This is a [Portfolio website](https://Varshithvhegde.github.io) made using HTML,
 - I am a Engineering student at Mangalore Institute of Technology and Engineering and pursuing my B.E. in Computer Science and Engineering.
 - I am a self taught web developer and android developer. 
 - [My Portfolio](https://Varshithvhegde.github.io) is a website that I made to showcase my skills and projects.
+
+
 ## Skills
 - HTML
 -  CSS
